@@ -3,16 +3,16 @@ function AboutMe() {
     <div className="about-me">
       <h2>About Me</h2>
       <p>
-        Hello! I'm Donovan, a passionate and creative Web Developer based in San Antonio, Texas. I have a strong love for technology, design, and problem-solving. As a Web Developer, I enjoy bringing ideas to life through code and design.
+        Hello, I'm Donovan, a Web Developer based in San Antonio, Texas. With a strong passion for technology, design, and problem-solving, I specialize in bringing ideas to life through coding and design.
       </p>
       <p>
-        My journey in the world of Web Development began [How You Started], and I've been hooked ever since. I'm constantly exploring new technologies and techniques to stay up-to-date with the ever-evolving digital landscape.
+        My journey in Web Development started with editing MySpace pages, and I've been hooked ever since. I stay current with the latest technologies and techniques to navigate the ever-evolving digital landscape.
       </p>
       <p>
-        When I'm not coding or designing, you can find me [Interests/Hobbies]. I believe in the power of [Your Beliefs/Philosophy], and I'm always excited to take on new challenges and collaborate with fellow creators.
+        When I'm not coding or designing, you can find me at the gym, socializing with friends, or playing guitar. I approach challenges with optimism and a belief in the power to overcome obstacles. I'm excited to collaborate with fellow creators and take on new projects.
       </p>
       <p>
-        Whether you're here to explore my portfolio or discuss a potential project, I'm thrilled to connect and share my skills and experiences. Let's work together to bring your ideas to life!
+        Whether you're here to explore my portfolio or discuss potential projects, I'm eager to connect and share my skills and experiences. Let's work together to bring your ideas to life.
       </p>
     </div>
   );
